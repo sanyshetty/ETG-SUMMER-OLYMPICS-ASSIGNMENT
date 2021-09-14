@@ -1,2 +1,2 @@
-# ETG-SUMMER-OLYMPICS-ASSIGNMENT
-Data Analysis Of Summer Olympics 2021
+# Summer-Olympic-Data-Analysis
+ETG's Data Analysis Of Summer Olympics Assignment - Skill India ETG Internship 
